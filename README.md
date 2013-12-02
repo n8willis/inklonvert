@@ -11,4 +11,4 @@ PaperInkConverter parses the strokes in a WPI file. PaperInkRecognizer is a hand
 
 Ellebruch's code is still available online at http://www.useful-tools.de/en_default.html ... unfortunately, although I have emailed him several times, I have not yet gotten a reply.  If anyone knows a better way to get in touch with him, I would love to hear about it.
 
-Both of the projects were written for Windows, but I hope they will prove useful to Linux and perhaps Mac developers as well, in addition to preserving some documentation of the format itself.  As you can see from Ellebruch's comments in the code, it is free software available under the GNU Lesser General Public License version 3, LGPLv3.
+Both of the projects were written for Windows, but I hope they will prove useful to Linux and perhaps Mac developers as well, in addition to preserving some documentation of the format itself.  As you can see from Ellebruch's comments in the code, both programs are free software; PaperInkConverter is available under the GNU Lesser General Public License version 3 (LGPLv3), and PaperInkRecognizer is available to you under the GNU General Public License version 3 (GPLv3).
