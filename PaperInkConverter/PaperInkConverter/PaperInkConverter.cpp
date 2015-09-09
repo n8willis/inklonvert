@@ -257,7 +257,7 @@ short*  PaperInkConverter::GetPenPositionY() {
 		return(temp);
 	};
 short*  PaperInkConverter::GetPenPressure() {
-		short* temp = pPenPositionStart_X + *(SensitivityStrokeIndexList+SubStrokeIndex);
+		short* temp = pPenPressureStart + *(SensitivityStrokeIndexList+SubStrokeIndex);
 		return(temp);
 	};
 
